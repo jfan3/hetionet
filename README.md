@@ -36,3 +36,4 @@ Below, we provide two hetnet visualizations. Panel A shows the metagraph (graph 
 ## License
 
 All original content in this repository is released as [CC0](https://creativecommons.org/publicdomain/zero/1.0/ "CC0 1.0 Universal · Public Domain Dedication"). However, the hetnet integrates data from many resources and users should consider the licensing of each source (see [this table](https://github.com/dhimmel/integrate/blob/d482033bcaa913a976faf4a6ee08497281c739c3/licenses/README.md "Source license table")). We apply a `license` attribute on a per node and per edge basis for sources with defined licenses. However, some resources don't provide any license, so for those we've requested permission. More information is [available on Thinklab](https://thinklab.com/discussion/integrating-resources-with-disparate-licensing-into-an-open-network/107 "Integrating resources with disparate licensing into an open network").
+# drug_project
